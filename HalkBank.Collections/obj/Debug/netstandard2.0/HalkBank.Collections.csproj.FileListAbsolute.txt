@@ -1,0 +1,10 @@
+Z:\C#Egitim\HalkBankCSharpDevelopment\HalkBank.Collections\bin\Debug\netstandard2.0\HalkBank.Collections.deps.json
+Z:\C#Egitim\HalkBankCSharpDevelopment\HalkBank.Collections\bin\Debug\netstandard2.0\HalkBank.Collections.dll
+Z:\C#Egitim\HalkBankCSharpDevelopment\HalkBank.Collections\bin\Debug\netstandard2.0\HalkBank.Collections.pdb
+Z:\C#Egitim\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.csproj.AssemblyReference.cache
+Z:\C#Egitim\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#Egitim\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.AssemblyInfoInputs.cache
+Z:\C#Egitim\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.AssemblyInfo.cs
+Z:\C#Egitim\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.csproj.CoreCompileInputs.cache
+Z:\C#Egitim\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.dll
+Z:\C#Egitim\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArraylistDemo/1.0.0": {
+        "dependencies": {
+          "HalkBank.Collections": "1.0.0"
+        },
+        "runtime": {
+          "ArraylistDemo.dll": {}
+        }
+      },
+      "HalkBank.Collections/1.0.0": {
+        "runtime": {
+          "HalkBank.Collections.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArraylistDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HalkBank.Collections/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
